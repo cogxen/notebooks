@@ -2,7 +2,7 @@
 
 ## Situation
 
-In this analysis, you explored a dataset on community crime statistics in Calgary with the goal of forecasting future monthly crime counts. The dataset contains records of crime occurrences across different communities, categorized by type, year, and month. The task required cleaning and analyzing this data and then building a predictive model to forecast future crime counts.
+In this analysis, I explored a dataset on community crime statistics in Calgary with the goal of forecasting future monthly crime counts. The dataset contains records of crime occurrences across different communities, categorized by type, year, and month. The task required cleaning and analyzing this data and then building a predictive model to forecast future crime counts.
 
 ## Task
 
