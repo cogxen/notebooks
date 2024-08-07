@@ -1,3 +1,5 @@
+![banner](https://i.imgur.com/NZfh8kK.png)
+
 # Cost of Living Index Analysis
 
 Analyze the cost of living indices across countries and predict cost of living categories (Low, Medium, High) using a Random Forest classification model and other models as comparison. Address class imbalance using SMOTE and optimize model performance through hyperparameter tuning.
